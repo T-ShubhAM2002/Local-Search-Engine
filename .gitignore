@@ -1,0 +1,6 @@
+goals.txt
+tf-idf_search_engine_fromScratch.ipynb
+
+Document_Corpus/
+
+*.ipynb_checkpoints/ 
